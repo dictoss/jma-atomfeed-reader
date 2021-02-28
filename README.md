@@ -15,11 +15,15 @@
         - Eeathquake and volcano
         - Other
 
-## How to use
-
-- to be ...
-
 ## How to install
 
-- to be ...
- 
+`pip install -r requirements.txt`
+
+## How to use
+
+`cd jmaatomfeed`
+`python3 reader.py http://www.data.jma.go.jp/developer/xml/feed/regular.xml`
+
+## How to config
+
+- see config.py.
