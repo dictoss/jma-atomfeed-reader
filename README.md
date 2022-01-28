@@ -23,7 +23,7 @@
 
 ```
 cd jmaatomfeed
-python3 reader.py http://www.data.jma.go.jp/developer/xml/feed/regular.xml
+python3 reader.py https://www.data.jma.go.jp/developer/xml/feed/regular.xml
 ```
 
 ## How to config
