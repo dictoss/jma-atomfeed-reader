@@ -1,4 +1,4 @@
-# jma-atmfeed-reader
+# jma-atomfeed-reader
 - Atom Feed XML reader for JMA.
 - JMA is Japan Meteorological Agency.
 
